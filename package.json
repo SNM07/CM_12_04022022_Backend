@@ -1,5 +1,5 @@
 {
-  "name": "CM_12_04022022_Backend",
+  "name": "cm-12-04022022-backend",
   "version": "1.0.0",
   "description": "Backend for CM_12_04022022",
   "main": "index/app.js",
